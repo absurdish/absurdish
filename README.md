@@ -22,6 +22,7 @@ impl Person {
       age: 18,
       occupation: "open-source dev, theoretical physics",
       tech_stack: "rust, go, typescript, next",
+      experience_years: 3,
       editor: "zed, rustrover",
       job_status: "looking",
       learning:  "go, QM",
